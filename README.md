@@ -1,7 +1,7 @@
 # mjml-react-reload
 
-Building responsive emails is hard. Thankfully [MJML](https://mjml.io/documentation/) exists. This is a boilerplate project that
-with help you quickly iterate through responsive email designs. Make a change to [mjml-react](https://github.com/wix-incubator/mjml-react) code and the browser automatically refreshes.
+Building responsive emails is hard. Thankfully [MJML](https://mjml.io/documentation/) exists. Here's a boilerplate project that
+will help you quickly iterate through responsive email designs. Make a change to [mjml-react](https://github.com/wix-incubator/mjml-react) code and the browser automatically refreshes.
 
 Give it a try. Edit the following component:
 
@@ -15,3 +15,8 @@ Normally you would need to refresh the browser every time you made a change but 
 
     npm install
     npm run dev
+
+## Todo
+
+-   Convert [mjml starter](https://github.com/mjmlio/email-templates) templates to mjml-react
+-   Make a blog post
