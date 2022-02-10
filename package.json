@@ -31,7 +31,7 @@
         "mjml": "^4.4.0-beta.2",
         "mjml-react": "^1.0.53",
         "morgan": "^1.9.1",
-        "node-sass": "^4.12.0",
+        "node-sass": "^7.0.0",
         "nodemon": "^1.19.1",
         "prettier": "1.18.2",
         "react": "^16.8.6",
