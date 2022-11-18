@@ -27,7 +27,7 @@
         "extract-loader": "^3.1.0",
         "file-loader": "^4.0.0",
         "html-loader": "^0.5.5",
-        "html-webpack-plugin": "^3.2.0",
+        "html-webpack-plugin": "^5.5.0",
         "mjml": "^4.4.0-beta.2",
         "mjml-react": "^1.0.53",
         "morgan": "^1.9.1",
@@ -41,7 +41,7 @@
         "sass-loader": "^7.1.0",
         "style-loader": "^0.23.1",
         "webpack": "4.35.3",
-        "webpack-cli": "^3.3.5",
+        "webpack-cli": "^3.3.12",
         "webpack-dev-middleware": "^3.7.0",
         "webpack-hot-middleware": "^2.25.0"
     }
